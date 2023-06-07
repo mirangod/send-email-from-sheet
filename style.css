@@ -1,0 +1,30 @@
+body { 
+  font-family: "Montserrat", sans-serif;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+table {
+  margin: auto;
+  table-layout: fixed;
+  border-collapse: collapse;
+  padding: 2px;
+  width: 60%;
+  min-width: 600px;
+  border: 1px solid #191c1c;
+  border-radius: 5px;
+}
+
+tr, th, td {
+  text-align: center;
+}
+
+th {
+  background-color: #191c1c;
+  color: white;
+}
+
+td {
+  background-color: white;
+  color: #191c1c;
+}
